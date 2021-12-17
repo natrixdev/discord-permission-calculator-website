@@ -15,4 +15,6 @@ Thanks for contributions: `natrix`
 not needed
 
 ## Discord Server
-<a href="https://discord.gg/mpHayQZAJm"/></a>
+<p align="center">
+  https://discord.gg/mpHayQZAJm
+</p>
